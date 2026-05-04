@@ -14,13 +14,19 @@ I bridge the gap between technical data infrastructure and revenue growth. I spe
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Architecture
 
-#### [n8n-job-agent](https://github.com/alexander-jagemann/n8n-job-agent)
-Automated AI pipeline (n8n/JavaScript/Gemini API) to extract and structure data from unstructured sources (RSS/IMAP) into relational databases.
+#### [🤖 AI-Powered Job Agent (n8n / Gemini API)](https://github.com/alexander-jagemann/n8n-job-agent)
+An automated data pipeline to aggregate, analyze, and score remote career opportunities.
+*`n8n` `Google Gemini Flash` `JavaScript` `APIs`*
 
-#### [champions-league-dashboard](https://github.com/alexander-jagemann/champions-league-dashboard)
-Python-based live dashboard demonstrating real-time data handling and visualization.
+#### [📧 Klaviyo Lifecycle Architecture Case Study](https://github.com/alexander-jagemann/email-marketing-case-study)
+A strategic audit and 30-day execution roadmap transforming a batch-and-blast setup into a data-driven, segmented revenue channel.
+*`Klaviyo` `Lifecycle Strategy` `Data Segmentation` `Deliverability`*
+
+#### [⚽ Real-Time Live Dashboard](https://github.com/alexander-jagemann/champions-league-dashboard)
+A lightweight, mobile-first data visualization tool demonstrating real-time API polling and custom frontend constraints.
+*`Python` `Streamlit` `REST API` `Data Normalization`*
 
 ---
 
@@ -30,7 +36,6 @@ Python-based live dashboard demonstrating real-time data handling and visualizat
 - **Precision:** M.Sc. in Business Informatics mindset applied to marketing operations.
 
 ---
-
 <br>
 
 # Hallo, ich bin Alexander Jagemann 👋
@@ -59,4 +64,4 @@ Ich schließe die Lücke zwischen technischer Dateninfrastruktur und Umsatzwachs
 ### 📫 Connect with me / Kontakt
 - **LinkedIn:** [linkedin.com/in/alexander-jagemann](https://www.linkedin.com/in/alexander-jagemann)
 - **E-Mail:** [alex.jagemann@gmx.de](mailto:alex.jagemann@gmx.de)
-- **Location:** Silleda, Spain (Remote)
+- **Location:** Silleda, Spain (100% Remote)
