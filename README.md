@@ -8,9 +8,9 @@ I bridge the gap between technical data infrastructure and revenue growth. I spe
 ### 🛠 Tech Stack & Expertise
 
 - **CRM & Automation:** Salesforce Marketing Cloud, Klaviyo, Brevo, n8n, Mailchimp.
-- **Data Engineering:** Python, SQL, BigQuery, API & Webhook Integration.
+- **Data Engineering:** Python, JavaScript, SQL, API & Webhook Integration.
 - **Analytics:** Google Analytics 4, KPI Tracking (LTV, Retention, Attribution).
-- **Core Focus:** Event-based segmentation, Data Cleansing, AI-driven automation pipelines.
+- **Core Focus:** Event-based segmentation, Data Cleansing, Serverless ETL pipelines.
 
 ---
 
@@ -23,6 +23,10 @@ An automated data pipeline to aggregate, analyze, and score remote career opport
 #### [📧 Klaviyo Lifecycle Architecture Case Study](https://github.com/alexander-jagemann/email-marketing-case-study)
 A strategic audit and 30-day execution roadmap transforming a batch-and-blast setup into a data-driven, segmented revenue channel.
 *`Klaviyo` `Lifecycle Strategy` `Data Segmentation` `Deliverability`*
+
+#### [📈 Email Analytics & Data Pipeline](https://github.com/alexander-jagemann/email-analytics-pipeline)
+A serverless ETL pipeline extracting email performance data from a CRM API (Brevo) and syncing it to Google Sheets/Data Studio.
+*`JavaScript` `Google Apps Script` `REST API` `ETL`*
 
 #### [⚽ Real-Time Live Dashboard](https://github.com/alexander-jagemann/champions-league-dashboard)
 A lightweight, mobile-first data visualization tool demonstrating real-time API polling and custom frontend constraints.
@@ -48,9 +52,9 @@ Ich schließe die Lücke zwischen technischer Dateninfrastruktur und Umsatzwachs
 ### 🛠 Tech Stack & Expertise (DE)
 
 - **CRM & Automatisierung:** Salesforce Marketing Cloud, Klaviyo, Brevo, n8n, Mailchimp.
-- **Data Engineering:** Python, SQL, BigQuery, API- & Webhook-Integrationen.
+- **Data Engineering:** Python, JavaScript, SQL, API- & Webhook-Integrationen.
 - **Analytics:** Google Analytics 4, KPI-Tracking (LTV, Retention, Attribution).
-- **Kernfokus:** Ereignisbasierte Segmentierung, Datenbereinigung, KI-gestützte Automatisierungs-Pipelines.
+- **Kernfokus:** Ereignisbasierte Segmentierung, Datenbereinigung, Serverless ETL-Pipelines.
 
 ---
 
