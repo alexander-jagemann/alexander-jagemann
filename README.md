@@ -1,7 +1,8 @@
 <h1 align="center">Alexander Jagemann</h1>
+
 <p align="center">
   <strong>Marketing Automation Engineer · MarTech Architect</strong><br>
-  I don't run campaigns. I build the systems that run them.
+  I build the systems behind marketing operations, not the campaigns themselves.
 </p>
 
 <p align="center">
@@ -17,14 +18,33 @@
 
 ---
 
-## What I Build
+## Professional Focus
 
-MarTech systems that process data, fire logic, and scale without breaking.
-My work sits at the intersection of data engineering and marketing operations:
-API integrations, behavioral automation pipelines, and CRM architectures
-built for precision — not approximation.
+### English
 
-**11 years. Enterprise scale. Fully remote.**
+I design and build marketing systems that process data, execute logic, and scale reliably.
+
+Focus areas:
+- Marketing Operations architecture (SFMC, Klaviyo, Brevo)
+- Workflow automation using n8n and Python
+- API-driven CRM integrations and data pipelines
+- Lifecycle automation and segmentation systems
+
+**11 years of experience · Enterprise scale · Remote-first**
+
+---
+
+### Deutsch
+
+Ich entwickle technische Systeme für Marketing- und CRM-Prozesse.
+
+Schwerpunkte:
+- Marketing Operations Architektur (SFMC, Klaviyo, Brevo)
+- Workflow-Automatisierung mit n8n und Python
+- API-basierte CRM-Integrationen und Datenflüsse
+- Lifecycle- und Segmentierungslogik
+
+**11 Jahre Erfahrung · Enterprise-Level · Remote-first**
 
 ---
 
@@ -36,7 +56,6 @@ built for precision — not approximation.
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat"/>
 <img src="https://img.shields.io/badge/AMPscript-00A1E0?style=flat"/>
@@ -44,91 +63,84 @@ built for precision — not approximation.
 
 ---
 
-## Projects
+## Key Projects
 
-### [🤖 AI Job Agent](https://github.com/alexander-jagemann/n8n-job-agent)
-> Multi-source aggregation pipeline built to replace manual job search
-> with structured, scored data.
+### AI Job Agent
+https://github.com/alexander-jagemann/n8n-job-agent
 
-Pulls from RSS feeds (Remotive, WeWorkRemotely, NoDesk) + LinkedIn alerts
-via IMAP → scores relevance via Gemini Flash API → writes structured output
-to Google Sheets. Zero manual intervention after setup.
-
-`n8n` `Google Gemini Flash` `JavaScript` `IMAP` `REST APIs`
+Automated job aggregation pipeline using n8n and Gemini Flash.
+- Multi-source ingestion (RSS, email alerts)
+- AI-based relevance scoring
+- Structured output in Google Sheets
 
 ---
 
-### [📊 CRM Lifecycle Architecture — Case Study](https://github.com/alexander-jagemann/email-marketing-case-study)
-> Real-world CRM audit: from batch-and-blast chaos to segmented,
-> deliverability-safe lifecycle architecture.
+### CRM Lifecycle Architecture
+https://github.com/alexander-jagemann/email-marketing-case-study
 
-Covers 3 structural problems (frequency overload, missing segmentation,
-parallel automation conflicts), a 5-segment strategy, and a 30-day
-execution roadmap. Based on anonymized production data.
-
-`Klaviyo` `Lifecycle Architecture` `Segmentation` `Deliverability`
+Lifecycle redesign from batch campaigns to structured automation.
+- Segmentation model (5 core groups)
+- Deliverability improvements
+- 30-day implementation roadmap
 
 ---
 
-### [⚙️ Email Analytics ETL Pipeline](https://github.com/alexander-jagemann/email-analytics-pipeline)
-> Automated performance data extraction from CRM API → Google Sheets sync.
+### Email Analytics ETL Pipeline
+https://github.com/alexander-jagemann/email-analytics-pipeline
 
-`JavaScript` `Google Apps Script` `Brevo API` `ETL`
-
----
-
-### [📈 Real-Time Match Dashboard](https://github.com/alexander-jagemann/champions-league-dashboard)
-> Mobile-first data visualization: real-time API polling, data
-> normalization, custom Streamlit frontend.
-
-`Python` `Streamlit` `REST API` `Data Normalization`
+CRM API → structured reporting pipeline.
+- Automated data extraction
+- Clean transformation layer
+- Reporting-ready output
 
 ---
 
-## Numbers That Matter
+### Real-Time Match Dashboard
+https://github.com/alexander-jagemann/champions-league-dashboard
 
-| What | Result |
-|---|---|
-| List cleanup via Python + validation APIs | 500k → 120k · +50% conversion |
-| Enterprise email automation (SFMC) | Multi-million recipient segments |
-| Lifecycle flows (Klaviyo) | Trigger-based · 80% dynamic content |
-| Churn prevention campaign | 2% retained · double-digit CTR |
+Real-time sports data visualization system.
+- API polling and normalization
+- Streamlit frontend
+- Lightweight analytics layer
 
 ---
 
-## Work Philosophy
+## Impact
 
-**Async over meetings.** Structured documentation over verbal alignment.
-**Measurable over intuitive.** Every flow designed with A/B logic
-and incrementality in mind.
-**System thinking over tool thinking.** Platforms change.
-Data models and logic don't.
+| Area | Result |
+|------|--------|
+| Data quality | 500k → 120k cleaned records |
+| Conversion | +50% improvement after segmentation |
+| Automation scale | Multi-million recipient workflows |
+| Lifecycle optimization | Higher engagement via trigger-based flows |
+
+---
+
+## Engineering Principles
+
+- System design over tool usage
+- Async-first workflows over meetings
+- Measurable outputs over assumptions
+- Reusable logic over campaign-specific setups
 
 ---
 
 ## Open To
 
-Remote roles in **Marketing Automation Engineering**,
-**Marketing Operations**, **RevOps** or **Analytics Engineering**.
-EU time zones preferred. US-EST workable.
+### English
+Remote roles in:
+- Marketing Automation Engineering
+- RevOps
+- Analytics Engineering
+
+EU time zones preferred. US EST possible.
 
 ---
 
-<details>
-<summary>🇩🇪 Deutsch</summary>
+### Deutsch
+Offen für Remote-Rollen in:
+- Marketing Automation Engineering
+- RevOps
+- Analytics Engineering
 
-### Marketing Automation Engineer | MarTech Architekt
-
-Ich baue die technische Infrastruktur hinter CRM- und Lifecycle-Systemen:
-Datenpipelines, Automation-Flows, API-Integrationen.
-
-**Stack:** SFMC · Klaviyo · Brevo · n8n · Python · SQL · BigQuery · GA4
-
-Offen für internationale Remote-Rollen in Marketing Automation,
-RevOps oder Analytics Engineering.
-
-**[LinkedIn](https://www.linkedin.com/in/alexander-jagemann) ·
-[alex.jagemann@gmx.de](mailto:alex.jagemann@gmx.de) ·
-Silleda, Galicien, Spanien**
-
-</details>
+EU-Zeitzonen bevorzugt. US-EST möglich.
